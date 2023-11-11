@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://drive.google.com/file/*
 // @icon         https://t3.ftcdn.net/jpg/05/25/34/32/360_F_525343276_wzrufQ72rFbfxVTSJgUOHkjjUo0Td5ql.jpg
-// @updateURL    https://raw.githubusercontent.com/Techie-GSC/drive-backwards/main/userscript.js
-// @downloadURL  https://raw.githubusercontent.com/Techie-GSC/drive-backwards/main/userscript.js
+// @updateURL    https://github.com/Techie-GSC/drive-backwards/raw/main/userscript.js
+// @downloadURL  https://github.com/Techie-GSC/drive-backwards/raw/main/userscript.js
 // @grant        none
 // @grant        none
 // ==/UserScript==
