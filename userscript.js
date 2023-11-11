@@ -9,7 +9,6 @@
 // @updateURL    https://github.com/Techie-GSC/drive-backwards/raw/main/userscript.js
 // @downloadURL  https://github.com/Techie-GSC/drive-backwards/raw/main/userscript.js
 // @grant        none
-// @grant        none
 // ==/UserScript==
 
 (function() {
